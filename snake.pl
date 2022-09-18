@@ -1,8 +1,3 @@
-#!usr/bin/perl
-
-# ABSTRACT: Play the game
-# PODNAME: snake.pl
-
 use strict;
 use warnings;
 
