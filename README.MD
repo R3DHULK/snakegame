@@ -19,6 +19,7 @@
 <h2><i>Hope you'll love this 😊😊😇😇</i></h2>
 
 <h1><b> Output: </h1></b>
+
 ![](snake.png)
 
 <h2><b><i> Show Support 👇👇👇</b></i> </h2>
